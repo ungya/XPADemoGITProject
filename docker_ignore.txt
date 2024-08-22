@@ -1,0 +1,12 @@
+_opt
+CleanBackUp
+Documentation
+Docker
+Recovery
+Source
+Temp
+*.hash
+*.lnk
+*.triggers
+*.bat
+docker_ignore.txt
